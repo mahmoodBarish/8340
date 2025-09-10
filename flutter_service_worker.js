@@ -34,7 +34,7 @@ const RESOURCES = {"canvaskit/skwasm.js": "1ef3ea3a0fec4569e5d531da25f34095",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "3ca5dc7621921b901d513cc1ce23788c",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "a2eb084b706ab40c90610942d98886ec",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "4769f3245a24c1fa9965f113ea85ec2a",
-"flutter_bootstrap.js": "a896b45030f35f6ebc5b6394ac9e9d9f",
+"flutter_bootstrap.js": "c8eeb50bde1bb59be8570f15ffd7fa8a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "index.html": "d7c35992206372917e1ec4feba8b5862",
 "/": "d7c35992206372917e1ec4feba8b5862"};
